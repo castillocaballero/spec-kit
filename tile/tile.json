@@ -1,0 +1,8 @@
+{
+  "name": "castillo/specify-cli",
+  "version": "0.3.2",
+  "docs": "docs/index.md",
+  "describes": "pkg:pypi/specify-cli@0.3.2",
+  "summary": "CLI tool and Python library for bootstrapping Spec-Driven Development projects with AI agent integration, extension management, and preset-based template resolution.",
+  "private": true
+}

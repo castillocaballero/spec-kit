@@ -1,0 +1,1 @@
+Command Registrar - Multi-agent Command Registration
